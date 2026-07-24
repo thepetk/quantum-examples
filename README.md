@@ -1,3 +1,3 @@
 # quantum-examples
 
-dummy project with rust examples on quantum computing
+The project aims to host user friendly examples for quantum programming
